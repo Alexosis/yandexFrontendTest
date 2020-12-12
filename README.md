@@ -1,4 +1,4 @@
-#yandexFrontendTest
+# yandexFrontendTest
 
 Use `node index.js` to start this program in default mode (same as flag `-R`).
 
